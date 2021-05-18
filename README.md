@@ -12,7 +12,7 @@
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/stats-preview-card/)
 - Repository: [Stats Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/stats-preview-card)
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-4O427S1xL)
 
 *For more information about this project, there is a README file in the repository link above.*
 
