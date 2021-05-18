@@ -6,7 +6,7 @@
 
 ## Stats Preview Card Component
 
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg" width="480"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/zndkz1bimmoqwh7mzcmm.jpg" width="480">
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg" width="400"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/zndkz1bimmoqwh7mzcmm.jpg" width="400">
 
 > This is the [Stats Preview Card Component Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
