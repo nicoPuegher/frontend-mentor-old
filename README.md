@@ -14,7 +14,21 @@
 - Repository: [Stats Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/stats-preview-card)
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-4O427S1xL)
 
-*For more information about this project, there is a README file in the repository link above.*
+_For more information about this project, there is a README file in the repository link above._
+
+<br />
+
+## 3-Column Preview Card Component
+
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1617293265/Challenges/ap7h50kkrdq7zclbokox.jpg" width="400"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1617293393/Challenges/wgpurm7exoqq79zn7zaq.jpg" width="400">
+
+> This is the [3-Column Preview Card Component Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+
+- Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/3-col-preview-card/)
+- Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/3-col-preview-card)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-flexbox-vjt3K_WfY)
+
+_For more information about this project, there is a README file in the repository link above._
 
 <br />
 
