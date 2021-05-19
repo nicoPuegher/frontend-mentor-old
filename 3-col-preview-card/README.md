@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/3-col-preview-card/)
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-flexbox-vjt3K_WfY)
 
 ## My process
 
