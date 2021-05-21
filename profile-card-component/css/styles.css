@@ -1,1 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
+:root {
+  --main-font: 'Kumbh Sans', sans-serif;
+
+  --dark-cyan: hsl(185, 75%, 39%);
+  --very-dark-cyan: hsl(229, 23%, 23%);
+  --dark-grayish: hsl(227, 10%, 46%);
+
+  --white: hsl(0, 0%, 100%);
+  --dark-gray: hsl(0, 0%, 59%);
+  --test: rgba(199, 199, 199, 0.6);
+}
+
+/* global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: var(--main-font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--dark-cyan);
+}
+
+h5,
+h6 {
+  font-size: 1.8rem;
+}
+
+p {
+  font-weight: 400;
+}
+
+/* mobile, tablet & desktop */
+.bg-pattern-top {
+  position: fixed;
+  top: 0 auto;
+  left: 0 auto;
+  transform: translate(-47%, -40%);
+  z-index: 1;
+}
+
+.bg-pattern-bottom {
+  position: fixed;
+  bottom: 0 auto;
+  right: 0 auto;
+  transform: translate(47%, 30%);
+  z-index: 1;
+}
+
+main {
+  width: 330px;
+  z-index: 10;
+}
+
+header,
+.svg-image {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+header {
+  background-color: var(--white);
+}
+
+.svg-image {
+  position: relative;
+  width: 100%;
+  height: 135px;
+  background: url('../assets/bg-pattern-card.svg');
+  background-size: cover;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile img {
+  position: absolute;
+  border: 5px solid var(--white);
+  transform: translate(0%, -50%);
+  border-radius: 100%;
+}
+
+.profile h5 {
+  letter-spacing: 0.25px;
+  margin-top: 8rem;
+  color: var(--very-dark-cyan);
+}
+
+.profile span {
+  font-weight: 400;
+  margin-left: 0.25rem;
+  color: var(--dark-grayish);
+}
+
+.profile p {
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+  font-size: 1.4rem;
+  color: var(--dark-gray);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid var(--test);
+  background-color: var(--white);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+footer div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2.5rem;
+}
+
+footer p {
+  margin-top: 0.5rem;
+  color: var(--dark-gray);
+  letter-spacing: 2px;
+}
+
+/* mobiles with small resolution */
+@media (max-width: 374px) {
+  main {
+    width: 85%;
+  }
+}
+
+/* desktop */
+@media (min-width: 1026px) {
+  .bg-pattern-top {
+    transform: translate(-56%, -40%);
+  }
+
+  .bg-pattern-bottom {
+    transform: translate(45%, 49%);
+  }
+}

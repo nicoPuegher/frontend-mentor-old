@@ -16,18 +16,23 @@
     <link rel="stylesheet" href="./css/styles.css" />
   </head>
   <body>
-    <img
-      class="bg-pattern-top"
-      src="./assets/bg-pattern-top.svg"
-      alt="Background circle"
-    />
+    <!-- background images -->
+    <div class="bg-pattern-top">
+      <img src="./assets/bg-pattern-top.svg" alt="Background circle" />
+    </div>
+    <div class="bg-pattern-bottom">
+      <img src="./assets/bg-pattern-bottom.svg" alt="Background circle" />
+    </div>
+
     <main>
       <!-- header section -->
       <header>
-        <img src="./assets/bg-pattern-card.svg" alt="Background image" />
-        <img src="./assets/img-victor.jpg" alt="Profile picture" />
-        <h5>Victor Crest <span>26</span></h5>
-        <p>London</p>
+        <div class="svg-image"></div>
+        <div class="profile">
+          <img src="./assets/img-victor.jpg" alt="Profile picture" />
+          <h5>Victor Crest <span>26</span></h5>
+          <p>London</p>
+        </div>
       </header>
 
       <!-- footer section -->
@@ -46,10 +51,5 @@
         </div>
       </footer>
     </main>
-    <img
-      class="bg-pattern-bottom"
-      src="./assets/bg-pattern-bottom.svg"
-      alt="Background circle"
-    />
   </body>
 </html>
