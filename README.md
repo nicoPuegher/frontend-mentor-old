@@ -32,6 +32,20 @@ _For more information about this project, there is a README file in the reposito
 
 <br />
 
+## Profile Card Component
+
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1605203461/Challenges/tsdyz2ccordcztyrn8m0.jpg" width="400"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1605203461/Challenges/taohpe4czjstmjytl8zv.jpg" width="400">
+
+> This is the [Profile Card Component Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+
+- Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/profile-card-component/)
+- Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/profile-card-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-flexbox-f_0VJcpeG)
+
+_For more information about this project, there is a README file in the repository link above._
+
+<br />
+
 ## Author
 
 - Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)

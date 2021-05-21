@@ -30,7 +30,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/profile-card-component/)
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-flexbox-f_0VJcpeG)
 
 ## My process
 
