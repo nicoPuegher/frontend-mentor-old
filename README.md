@@ -46,6 +46,20 @@ _For more information about this project, there is a README file in the reposito
 
 <br />
 
+## FAQ Accordion Card
+
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1602235390/Challenges/y4zn9ukalew5zbnodrjs.jpg" width="400"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1602235457/Challenges/ird5rpi2iicascfikil8.jpg" width="400">
+
+> This is the [FAQ Accordion Challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
+
+- Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/faq-accordion-card/)
+- Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/faq-accordion-card)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-flexbox-dtHgvWBTJ)
+
+_For more information about this project, there is a README file in the repository link above._
+
+<br />
+
 ## Author
 
 - Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)

@@ -94,6 +94,7 @@ main {
 .accordion-item__question {
   display: flex;
   justify-content: space-between;
+  cursor: pointer;
 }
 
 .accordion-item__question h3 {
@@ -103,6 +104,10 @@ main {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   color: var(--very-dark-grayish-blue);
+}
+
+.accordion-item__question h3:hover {
+  color: var(--soft-red);
 }
 
 .accordion-item__question img {
