@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/faq-accordion-card/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-flexbox-dtHgvWBTJ)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-flexbox-dtHgvWBTJ)
 
 ## My process
 

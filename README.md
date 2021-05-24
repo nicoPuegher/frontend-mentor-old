@@ -54,7 +54,7 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/faq-accordion-card/)
 - Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/faq-accordion-card)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-flexbox-dtHgvWBTJ)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-flexbox-dtHgvWBTJ)
 
 _For more information about this project, there is a README file in the repository link above._
 
