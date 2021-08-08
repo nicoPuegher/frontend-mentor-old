@@ -60,6 +60,20 @@ _For more information about this project, there is a README file in the reposito
 
 <br />
 
+## Social Proof Section
+
+<img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649587%2FChallenges%2Fc5mnesn5eknealmjz4w2.jpg&w=828&q=75" width="400"><img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649626%2FChallenges%2Fi55lfaclccmhjx2zstme.jpg&w=828&q=75" width="400">
+
+> This is the [Social Proof Section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
+
+- Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/social-proof-section/)
+- Repository: [Social Proof Section](https://github.com/nicoPuegher/frontend-mentor/tree/main/social-proof-section)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-flexbox-UjUoZz7GV)
+
+_For more information about this project, there is a README file in the repository link above._
+
+<br />
+
 ## Author
 
 - Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)
