@@ -1,0 +1,266 @@
+:root {
+  --font: 'Spartan', sans-serif;
+  --white: hsl(0, 0%, 100%);
+  --light-grayish-magenta: hsl(300, 24%, 96%);
+  --dark-grayish-magenta: hsl(303, 10%, 53%);
+  --soft-pink: hsl(333, 80%, 67%);
+  --very-dark-magenta: hsl(300, 43%, 22%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  position: relative;
+  font-family: var(--font);
+  font-size: 1.6rem;
+  padding: 8rem 2.7rem 10rem 2.7rem;
+  background-color: var(--white);
+}
+
+@media (min-width: 768px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    justify-content: center;
+    max-height: 100vh;
+    padding: 8rem;
+  }
+}
+
+/*  */
+
+header {
+  position: relative;
+  text-align: center;
+  z-index: 5;
+}
+
+.title h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+  color: var(--very-dark-magenta);
+}
+
+.title p {
+  font-size: 1.43rem;
+  line-height: 1.8;
+  margin-top: 2.5rem;
+  color: var(--dark-grayish-magenta);
+}
+
+.rated {
+  margin-top: 3.5rem;
+}
+
+.rated-stars {
+  padding: 1.5rem 0;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  background-color: var(--light-grayish-magenta);
+}
+
+.rated-stars img {
+  margin-bottom: 1rem;
+}
+
+.rated-stars p {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--very-dark-magenta);
+}
+
+@media (min-width: 768px) {
+  header {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  header {
+    max-width: unset;
+    margin-top: 1rem;
+    display: flex;
+    text-align: left;
+  }
+
+  .title {
+    width: 50%;
+  }
+
+  .title h1 {
+    font-size: 4.5rem;
+    padding-right: 10rem;
+    margin-top: 2rem;
+  }
+
+  .title p {
+    padding-right: 10rem;
+    margin-top: 1.5rem;
+  }
+
+  .rated {
+    width: 50%;
+    margin-left: 4.5rem;
+  }
+
+  .rated div:nth-child(2) {
+    margin-left: 4rem;
+  }
+
+  .rated div:nth-child(3) {
+    margin-left: 8rem;
+  }
+
+  .rated-stars {
+    display: flex;
+    align-items: center;
+    width: 450px;
+    margin-bottom: 1.5rem;
+  }
+
+  .rated-stars div {
+    display: flex;
+    width: 130px;
+    justify-content: space-evenly;
+    padding: 0.5rem;
+    margin-left: 2rem;
+  }
+
+  .rated-stars img {
+    margin-right: 4rem;
+    margin: 0;
+  }
+
+  .rated-stars p {
+    margin-left: 2rem;
+  }
+}
+
+/*  */
+
+main {
+  margin-top: 5rem;
+}
+
+@media (min-width: 768px) {
+  main {
+    max-width: 768px;
+  }
+}
+
+.review {
+  margin-top: 1.5rem;
+  border-radius: 10px;
+  background-color: var(--very-dark-magenta);
+}
+
+.review__user {
+  display: flex;
+  align-items: center;
+  padding-top: 4rem;
+  padding-left: 3rem;
+}
+
+.review__user img {
+  width: 40px;
+  margin-right: 2rem;
+  border-radius: 100%;
+}
+
+.review__user h5 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: var(--light-grayish-magenta);
+}
+
+.review__user p {
+  font-size: 1.3rem;
+  color: var(--soft-pink);
+}
+
+.review__description {
+  font-size: 1.27rem;
+  line-height: 1.8;
+  padding: 0 2.9rem 3rem 3rem;
+  margin-top: 3rem;
+  color: var(--light-grayish-magenta);
+}
+
+@media (min-width: 1024px) {
+  main {
+    width: 100%;
+    display: flex;
+    max-width: unset;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  main div.review:nth-child(2) {
+    margin-top: 3.3rem;
+  }
+
+  main div.review:nth-child(3) {
+    margin-top: 5rem;
+  }
+
+  .review {
+    width: 350px;
+  }
+
+  .review__description {
+    padding-right: 3.3rem;
+    padding-bottom: 4rem;
+  }
+}
+
+/*  */
+
+.top-bg {
+  position: absolute;
+  width: 374px;
+  height: 250px;
+  left: 0;
+  top: 0;
+  background: url('../images/bg-pattern-top-mobile.svg');
+  z-index: 1;
+}
+
+.bottom-bg {
+  position: absolute;
+  width: 375px;
+  height: 500px;
+  left: 0;
+  bottom: 0;
+  background: url('../images/bg-pattern-bottom-mobile.svg');
+  z-index: 1;
+}
+
+@media (min-width: 768px) {
+  .top-bg {
+    width: 584px;
+    height: 362px;
+    background: url('../images/bg-pattern-top-desktop.svg');
+  }
+
+  .bottom-bg {
+    width: 1085px;
+    height: 673px;
+    left: unset;
+    right: 0;
+    background: url('../images/bg-pattern-bottom-desktop.svg');
+  }
+}
