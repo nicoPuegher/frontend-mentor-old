@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Page]()
-- Solution URL: [Frontend Mentor]()
+- Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/social-proof-section/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-flexbox-UjUoZz7GV)
 
 ## My process
 
