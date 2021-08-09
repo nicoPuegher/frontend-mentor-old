@@ -26,7 +26,7 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/3-col-preview-card/)
 - Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/3-col-preview-card)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-flexbox-vjt3K_WfY)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-flexbox-vjt3K_WfY)
 
 _For more information about this project, there is a README file in the repository link above._
 
