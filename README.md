@@ -12,7 +12,6 @@
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/stats-preview-card/)
 - Repository: [Stats Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/stats-preview-card)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-4O427S1xL)
 
 _For more information about this project, there is a README file in the repository link above._
 
@@ -26,7 +25,6 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/3-col-preview-card/)
 - Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/3-col-preview-card)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-flexbox-vjt3K_WfY)
 
 _For more information about this project, there is a README file in the repository link above._
 
@@ -40,7 +38,6 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/profile-card-component/)
 - Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/profile-card-component)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-flexbox-f_0VJcpeG)
 
 _For more information about this project, there is a README file in the repository link above._
 
@@ -54,7 +51,6 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/faq-accordion-card/)
 - Repository: [3-Column Preview Card Component](https://github.com/nicoPuegher/frontend-mentor/tree/main/faq-accordion-card)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-flexbox-dtHgvWBTJ)
 
 _For more information about this project, there is a README file in the repository link above._
 
@@ -68,12 +64,5 @@ _For more information about this project, there is a README file in the reposito
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/social-proof-section/)
 - Repository: [Social Proof Section](https://github.com/nicoPuegher/frontend-mentor/tree/main/social-proof-section)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-flexbox-UjUoZz7GV)
 
 _For more information about this project, there is a README file in the repository link above._
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)
