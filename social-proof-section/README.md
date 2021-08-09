@@ -14,12 +14,11 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 <br />
 
@@ -35,10 +34,9 @@ Users should be able to:
 
 <img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649587%2FChallenges%2Fc5mnesn5eknealmjz4w2.jpg&w=828&q=75" width="480"><img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649626%2FChallenges%2Fi55lfaclccmhjx2zstme.jpg&w=828&q=75" width="480">
 
-### Links
+### Link
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/social-proof-section/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-flexbox-UjUoZz7GV)
 
 ## My process
 
@@ -58,9 +56,3 @@ main div.review:nth-child(2) {
   margin-top: 3.3rem;
 }
 ```
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)

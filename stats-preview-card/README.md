@@ -8,8 +8,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -28,10 +28,9 @@ Users should be able to:
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg" width="480"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/zndkz1bimmoqwh7mzcmm.jpg" width="480">
 
-### Links
+### Link
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/stats-preview-card/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-4O427S1xL)
 
 ## My process
 
@@ -47,7 +46,7 @@ Users should be able to:
 Change elements order using flexbox and how to approach a mobile-first workflow.
 
 ```css
-  main {
-    flex-direction: row-reverse;
-  }
+main {
+  flex-direction: row-reverse;
+}
 ```

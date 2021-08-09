@@ -8,12 +8,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 <br />
 
@@ -30,10 +29,9 @@ Users should be able to:
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1617293265/Challenges/ap7h50kkrdq7zclbokox.jpg" width="480"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1617293393/Challenges/wgpurm7exoqq79zn7zaq.jpg" width="480">
 
-### Links
+### Link
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/3-col-preview-card/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-flexbox-vjt3K_WfY)
 
 ## My process
 
@@ -53,9 +51,3 @@ main div button:hover {
   box-shadow: 0px 0px 0px 2px var(--light-gray) inset;
 }
 ```
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)

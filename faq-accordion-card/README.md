@@ -8,12 +8,11 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 <br />
 
@@ -31,10 +30,9 @@ Users should be able to:
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1602235390/Challenges/y4zn9ukalew5zbnodrjs.jpg" width="480"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1602235457/Challenges/ird5rpi2iicascfikil8.jpg" width="480">
 
-### Links
+### Link
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/faq-accordion-card/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-flexbox-dtHgvWBTJ)
 
 ## My process
 
@@ -65,9 +63,3 @@ main {
   left: -100px;
 }
 ```
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)

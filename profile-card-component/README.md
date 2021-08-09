@@ -8,12 +8,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 <br />
 
@@ -27,10 +26,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1605203461/Challenges/tsdyz2ccordcztyrn8m0.jpg" width="480"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1605203461/Challenges/taohpe4czjstmjytl8zv.jpg" width="480">
 
-### Links
+### Link
 
 - Live Site URL: [GitHub Page](https://nicopuegher.github.io/frontend-mentor/profile-card-component/)
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-flexbox-f_0VJcpeG)
 
 ## My process
 
@@ -54,9 +52,3 @@ How to add svg images as background.
   background-size: cover;
 }
 ```
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)
