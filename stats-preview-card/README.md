@@ -8,12 +8,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 <br />
 
@@ -52,9 +51,3 @@ Change elements order using flexbox and how to approach a mobile-first workflow.
     flex-direction: row-reverse;
   }
 ```
-
-<br />
-
-## Author
-
-- Frontend Mentor - [@nicoPuegher](https://www.frontendmentor.io/profile/nicoPuegher)
