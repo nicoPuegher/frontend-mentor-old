@@ -91,7 +91,7 @@ header {
 
 @media (min-width: 1024px) {
   header {
-    max-width: unset;
+    max-width: 1120px;
     margin-top: 1rem;
     display: flex;
     text-align: left;
@@ -204,7 +204,7 @@ main {
   main {
     width: 100%;
     display: flex;
-    max-width: unset;
+    max-width: 1120px;
     justify-content: space-between;
     align-items: flex-start;
   }
